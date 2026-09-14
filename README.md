@@ -1,5 +1,9 @@
 # ASL Classification — Computer Vision Project
 
+<img width="398" height="109" alt="image" src="https://github.com/user-attachments/assets/9982341a-9e6b-4ce5-b07d-98ba882de8c6" />
+
+<img width="644" height="93" alt="image" src="https://github.com/user-attachments/assets/f4b0334f-d4ef-47ce-98ca-d83d292d6b53" />
+
 This project is a deep learning-based image classification system for American Sign Language (ASL) hand gestures. It uses transfer learning with EfficientNetB0 to classify ASL alphabet signs and functional gestures such as `space`, `del`, and `nothing`.
 
 ## Project Overview
